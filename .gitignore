@@ -14,9 +14,7 @@ venv/
 # Anaconda environments
 conda_env/
 
-# Output files
-*.csv
-*.xlsx
+# Log files
 *.log
 
 # IDE settings
