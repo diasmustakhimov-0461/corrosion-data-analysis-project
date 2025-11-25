@@ -6,3 +6,4 @@ jupyterlab
 scipy
 scikit-learn
 openpyxl
+pathlib
