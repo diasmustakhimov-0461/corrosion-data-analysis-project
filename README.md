@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Corrosion Data Analysis Project
 
 Short description:
@@ -17,3 +18,7 @@ This project analyzes corrosion behavior using Python, focusing on:
 ├── requirements.txt
 ├─README.md
 └── .gitignore
+=======
+# corrosion-data-analysis-project
+Python data analysis using Pandas and Matplotlib”
+>>>>>>> af35b465ec6f72afe55cf00da98ecbe28e97862b
