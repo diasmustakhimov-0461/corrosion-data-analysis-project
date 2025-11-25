@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.envrc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Plots
+plots/
+
+# macOS/Windows
+.DS_Store
+Thumbs.db
+
